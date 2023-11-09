@@ -1,0 +1,22 @@
+body {
+    background-image: url(./images/visualsofdana-6CgD007A780-unsplash.jpg);
+    background-size: cover;
+}
+
+header{
+    background-color: black;
+}
+#logo{
+    margin-left: 9%;
+}
+.navigation{
+    float: right;
+    margin-top: 20px;
+    margin-right: 40px;
+}
+.navigation {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white;
+    text-decoration:name;
+    border:2px
+}
